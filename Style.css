@@ -6,6 +6,7 @@ body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
     background-color: #a2d2ff;
+    background: linear-gradient(#a2d2ff, #efb0c9);
     color: #fff;
 
 
@@ -55,4 +56,34 @@ h1, h2, h3, h4, p {
     border: 6px solid white;
     border-radius: 10px;
 
+}
+
+#gift-1:hover {
+    background-image: url(img/minions.gif);
+}
+
+#gift-2:hover {
+    background-image: url(img/celeb.gif);
+}
+#gift-3:hover {
+    background-image: url(img/mario.webp);
+}
+#gift-4:hover {
+    background-image: url(img/friends.gif);
+}
+#gift-5{
+    height: 200px;
+}
+#gift-5:hover {
+    background-image: url(img/cheers.gif);
+}
+
+#footer {
+    width: 400px;
+    margin: 40px auto 20px;
+    font-style: italic;
+}
+
+a {
+    color: white;
 }
