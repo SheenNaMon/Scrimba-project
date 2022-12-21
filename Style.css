@@ -6,7 +6,7 @@ body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
     background-color: #a2d2ff;
-    background: linear-gradient(#a2d2ff, #efb0c9);
+    background: linear-gradient(#FEAC5E, #C779D0, #4BC0C8);
     color: #fff;
 
 
@@ -63,13 +63,13 @@ h1, h2, h3, h4, p {
 }
 
 #gift-2:hover {
-    background-image: url(img/celeb.gif);
+    background-image: url(img/Happy.gif);
 }
 #gift-3:hover {
-    background-image: url(img/mario.webp);
+    background-image: url(img/Jaw.gif);
 }
 #gift-4:hover {
-    background-image: url(img/friends.gif);
+    background-image: url(img/Smart.gif);
 }
 #gift-5{
     height: 200px;
